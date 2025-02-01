@@ -30,7 +30,7 @@
   "dependencies": {
     "axios": "^1.5.0",
     "fp-ts": "^2.16.0",
-    "io-ts": "^2.2.20",
+    "io-ts": "^2.2.22",
     "io-ts-reporters": "^2.0.0",
     "io-ts-types": "^0.5.19",
     "monocle-ts": "^2.3.13",
