@@ -30,7 +30,7 @@
     "@changesets/changelog-git": "^0.2.0",
     "@changesets/cli": "^2.27.1",
     "@eslint/eslintrc": "^3.0.0",
-    "@faker-js/faker": "^8.3.1",
+    "@faker-js/faker": "^9.5.1",
     "@microsoft/tsdoc-config": "^0.16.2",
     "@nx/esbuild": "17.2.8",
     "@nx/eslint-plugin": "17.2.8",
