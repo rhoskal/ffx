@@ -32,7 +32,7 @@
     "@eslint/eslintrc": "^3.0.0",
     "@faker-js/faker": "^8.3.1",
     "@microsoft/tsdoc-config": "^0.16.2",
-    "@nx/esbuild": "17.2.8",
+    "@nx/esbuild": "20.8.1",
     "@nx/eslint-plugin": "17.2.8",
     "@nx/js": "17.2.8",
     "@nx/vite": "17.2.8",
